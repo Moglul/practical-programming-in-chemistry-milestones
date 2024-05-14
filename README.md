@@ -9,13 +9,13 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/Moglul                                               | 
 | 1    | Github Profile Page                         | https://github.com/Moglul/Moglul                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/https://github.com/Moglul/ppchem/commit/6939333d6c3f987b04f2bf1ec3a78072f543ab6e|
+| 1    | Commit and Push Change from Command Line    | https://github.com/Moglul/ppchem/commit/6939333d6c3f987b04f2bf1ec3a78072f543ab6e|
 | 1    | Create a New Branch                         | https://github.com/Moglul/ppchem/tree/branche-test           |
 | 1    | Create a conda environment                  | https://github.com/Moglul/ppchem/blob/main/env.yml      |
 | 1    | Fork a Repo                                 | https://github.com/Moglul/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/Moglul/ppchem/blob/main/env.yml |
 
 **More milestones will be added throughout the course.**
 
